@@ -1,6 +1,5 @@
-Copyright (c) 2014-2026, Zarko Banovic (magicformdesign@gmail.com),
-with Reserved Font Name "Montenegrin Gothic".
-
+Copyright 2014-2026 The Montenegrin Gothic One Project Authors
+(https://github.com/MagicformDesign/montenegrin-gothic-one)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
