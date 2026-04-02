@@ -1,22 +1,19 @@
-# Montenegrin Gothic
-
-**Author:** Zarko Banovic
 **Design Brand:** Magicform
 **Date:** 2026-03-29
 
 ## Description
 
-Montenegrin Gothic is a serif typeface with slab-like terminals, designed
+Montenegrin Gothic One is a serif typeface with slab-like terminals, designed
 to maintain optical consistency and a strong visual identity. Inspired by
 modern gothic forms, it is well-suited for headlines, logos, and typographic
 projects that require a bold yet elegant presence.
 
-The current release includes the Bold style.
+The current release includes the Regular style.
 
 ## Font Details
 
-* Family: Montenegrin Gothic
-* Style: Bold
+* Family: Montenegrin Gothic One
+* Style: Regular
 * Designer: Zarko Banovic
 * Foundry: Magicform
 * Version: 1.002
@@ -24,9 +21,13 @@ The current release includes the Bold style.
 
 ## Language Support
 
-This font supports Latin and Latin Extended character sets, including
-Montenegrin, Serbian, Croatian, Bosnian, and other Central and Eastern
-European languages.
+This font supports Latin and Latin Extended character sets, providing full support for:
+
+Montenegrin (including specific characters: Ś, ś, Ź, ź)
+
+Serbian, Croatian, Bosnian (including: Č, č, Ć, ć, Š, š, Ž, ž, Đ, đ)
+
+Other Central and Eastern European languages that utilize the Latin script.
 
 ## Formats
 
