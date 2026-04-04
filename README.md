@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/806a1a2e-188e-435d-a4a1-7ce1e3d44b09" width="800" alt="montenegrin-gothic-one">
+</p>
+
 **Design Brand:** Magicform
 **Date:** 2026-03-29
 
@@ -14,7 +18,7 @@ The current release includes the Regular style.
 
 * Family: Montenegrin Gothic One
 * Style: Regular
-* Designer: Zarko Banovic
+* Designer: Žarko Banović
 * Foundry: Magicform
 * Version: 1.002
 * Initial release: 2026
@@ -50,5 +54,5 @@ You are free to use, modify, and distribute this font under the terms of
 the OFL license.
 
 ## Contact
-**Zarko Banovic** — Magicform
+**Žarko Banović** — Magicform
 Email: magicformdesign@gmail.com
