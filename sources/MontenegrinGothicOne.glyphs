@@ -14280,24 +14280,26 @@ width = 673;
 );
 },
 {
-glyphname = .null;
+glyphname = lineseparator;
+lastChange = "2026-05-07 12:36:50 +0000";
 layers = (
 {
 layerId = m001;
-width = 0;
+width = 600;
 }
 );
+unicode = 8232;
 },
 {
-glyphname = CR;
-lastChange = "2026-05-07 12:30:45 +0000";
+glyphname = paragraphseparator;
+lastChange = "2026-05-07 12:37:43 +0000";
 layers = (
 {
 layerId = m001;
-width = 0;
+width = 600;
 }
 );
-unicode = 13;
+unicode = 8233;
 },
 {
 glyphname = period;
@@ -21106,156 +21108,6 @@ width = 510;
 }
 );
 unicode = 731;
-},
-{
-glyphname = uni0010;
-layers = (
-{
-layerId = m001;
-width = 1000;
-}
-);
-unicode = 16;
-},
-{
-glyphname = glyph221;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph222;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph223;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph224;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph225;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph226;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph227;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph228;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 190;
-}
-);
-},
-{
-glyphname = glyph239;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 0;
-}
-);
-},
-{
-glyphname = glyph259;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 500;
-}
-);
-},
-{
-glyphname = glyph260;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 500;
-}
-);
-},
-{
-glyphname = glyph261;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 500;
-}
-);
-},
-{
-glyphname = glyph262;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 500;
-}
-);
-},
-{
-glyphname = nonmarkingreturn;
-lastChange = "2026-05-07 12:30:45 +0000";
-layers = (
-{
-layerId = m001;
-width = 500;
-}
-);
 }
 );
 instances = (
