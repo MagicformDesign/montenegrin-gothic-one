@@ -31,6 +31,10 @@ value = (
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2014-09-02 12:05:26 +0000";
