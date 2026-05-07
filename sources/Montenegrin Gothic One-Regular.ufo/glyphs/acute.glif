@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <advance width="317"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="0" y="562" type="curve"/>
+      <point x="0" y="545" type="line"/>
+      <point x="87" y="545" type="line"/>
+      <point x="87" y="562" type="line"/>
+      <point x="82" y="562"/>
+      <point x="77" y="565"/>
+      <point x="77" y="568" type="curve" smooth="yes"/>
+      <point x="77" y="570"/>
+      <point x="78" y="572"/>
+      <point x="80" y="574" type="curve" smooth="yes"/>
+      <point x="143" y="643" type="line" smooth="yes"/>
+      <point x="149" y="650"/>
+      <point x="157" y="654"/>
+      <point x="167" y="654" type="curve"/>
+      <point x="167" y="671" type="line"/>
+      <point x="46" y="671" type="line"/>
+      <point x="46" y="654" type="line"/>
+      <point x="53" y="653"/>
+      <point x="57" y="651"/>
+      <point x="57" y="647" type="curve" smooth="yes"/>
+      <point x="57" y="640"/>
+      <point x="42" y="614"/>
+      <point x="23" y="576" type="curve" smooth="yes"/>
+      <point x="19" y="567"/>
+      <point x="11" y="562"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-07 12:56:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>
