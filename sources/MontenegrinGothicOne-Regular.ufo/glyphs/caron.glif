@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="367"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="268" y="671" type="line"/>
+      <point x="268" y="654" type="line"/>
+      <point x="260" y="654"/>
+      <point x="252" y="650"/>
+      <point x="248" y="646" type="qcurve" smooth="yes"/>
+      <point x="188" y="579" type="line" smooth="yes"/>
+      <point x="181" y="571"/>
+      <point x="187" y="562"/>
+      <point x="196" y="562" type="qcurve"/>
+      <point x="196" y="545" type="line"/>
+      <point x="72" y="545" type="line"/>
+      <point x="72" y="562" type="line"/>
+      <point x="83" y="564"/>
+      <point x="83" y="575"/>
+      <point x="77" y="581" type="qcurve" smooth="yes"/>
+      <point x="18" y="646" type="line" smooth="yes"/>
+      <point x="12" y="654"/>
+      <point x="0" y="654" type="qcurve"/>
+      <point x="0" y="671" type="line"/>
+      <point x="113" y="671" type="line"/>
+      <point x="113" y="654" type="line"/>
+      <point x="105" y="654"/>
+      <point x="101" y="645"/>
+      <point x="106" y="639" type="qcurve" smooth="yes"/>
+      <point x="140" y="600" type="line"/>
+      <point x="174" y="639" type="line" smooth="yes"/>
+      <point x="179" y="645"/>
+      <point x="175" y="654"/>
+      <point x="167" y="654" type="qcurve"/>
+      <point x="167" y="671" type="line"/>
+    </contour>
+  </outline>
+</glyph>
