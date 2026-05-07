@@ -55,13 +55,6 @@ feature ordn;
 tag = aalt;
 },
 {
-code = " script latn;
-     language dflt ;
-      lookup kernHorizontalKerninginLatinlookup0;";
-disabled = 1;
-tag = kern;
-},
-{
 automatic = 1;
 code = "lookup ccmp_latn_1 {
 	lookupflag 0;
@@ -135,7 +128,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 780;
+value = 810;
 },
 {
 name = winDescent;
